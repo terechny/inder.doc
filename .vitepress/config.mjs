@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   srcDir: "markdown",
   title: "Intervue",
-  description: "Docs",
+  description: "Docs", 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
