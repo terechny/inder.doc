@@ -5,7 +5,7 @@ export default defineConfig({
   srcDir: "markdown",
   title: "Intervue",
   description: "Docs", 
-  base: "/terechny/", 
+  base: "/inder.doc/", 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
