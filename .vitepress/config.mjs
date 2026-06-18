@@ -3,14 +3,14 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "markdown",
-  title: "Intervue",
-  description: "Docs", 
+  title: "PHP Roadmap",
+  description: "Базовые темы для PHP разработчика", 
   base: "/inder.doc/", 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Catalog', link: '/structur' }
     ],
 
     sidebar: [

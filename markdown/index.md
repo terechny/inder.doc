@@ -3,23 +3,16 @@
 layout: home
 
 hero:
-  name: "Intervue"
-  text: "Docs"
-  tagline: My great project tagline
+  name: "Roadmap "
+  text: "Базовые темы PHP разработчика"
+  tagline:
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Каталог
+      link: /structur
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 
+    details: 
 ---
 
