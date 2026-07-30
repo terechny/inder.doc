@@ -39,10 +39,14 @@ export default defineConfig({
           { text: 'Message Brokers', link: '/message-brokers.md' },
           { text: 'Microservices', link: '/microservices.md' },
           { text: 'Soft Skills', link: '/soft-skills.md' },
-          
-          //{ text: 'Markdown Examples', link: '/markdown-examples' },
-          //{ text: 'Runtime API Examples', link: '/api-examples' },
-          
+          { text: 'Q PHP', link: '/q-php.md' },
+          { text: 'Q PHP 8', link: '/q-php-8.md' },
+          { text: 'Q OOP', link: '/q-oop.md' },
+          { text: 'Q Laravel', link: '/q-laravel.md' },
+          { text: 'Q Базы данных', link: '/q-database.md' },
+          { text: 'Q Алготмы', link: '/q-algoritm.md' },
+          { text: 'Q структуры данных', link: '/q-data-structur.md' },
+          { text: 'Q Инструменты', link: '/q-instrument.md' },
         ]
       }
     ],
